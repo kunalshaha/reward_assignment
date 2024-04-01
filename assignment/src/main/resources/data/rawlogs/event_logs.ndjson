@@ -1,0 +1,7 @@
+{"user_reward_id": "61B320C8", "user_id": "52c356ab", "brand_id": "04", "brand_name": "gu", "reward_id": "D6EB9B81", "reward_name": "gu_rw001", "expired_at": "2024-02-08T00:12:00Z", "points_spent": 10.0, "event": "purchase", "created_at": "2024-02-01T00:12:00Z"}
+{"user_reward_id": "7E6F41A8", "user_id": "647b00ae", "brand_id": "04", "brand_name": "gu", "reward_id": "D6EB9B81", "reward_name": "gu_rw001", "expired_at": "2024-02-08T01:27:00Z", "points_spent": 10.0, "event": "purchase", "created_at": "2024-02-01T01:27:00Z"}
+{"user_reward_id": "7E6F41A9", "user_id": "647b00ae", "brand_id": "04", "brand_name": "gu", "reward_id": "D6EB9B81", "reward_name": "gu_rw001", "expired_at": "2024-02-08T01:27:00Z", "points_spent": 10.0, "event": "purchase", "created_at": "2024-02-02T01:27:00Z"}
+{"user_reward_id": "9D05D344", "user_id": "8f7a25f1", "brand_id": "03", "brand_name": "btg", "reward_id": "4C0DB2D9", "reward_name": "btg_rw001", "expired_at": "2024-02-06T01:15:00Z", "points_spent": 150.0, "event": "purchase", "created_at": "2024-02-01T01:15:00Z"}
+{"user_reward_id": "61B320C8", "user_id": "52c356ab", "brand_id": "04", "brand_name": "gu", "reward_id": "D6EB9B81", "reward_name": "gu_rw001", "event": "redeem", "created_at": "2024-02-02T15:37:58Z"}
+{"user_reward_id": "9D05D344", "user_id": "8f7a25f1", "brand_id": "03", "brand_name": "btg", "reward_id": "4C0DB2D9", "reward_name": "btg_rw001", "event": "redeem", "created_at": "2024-02-02T04:37:38Z"}
+
